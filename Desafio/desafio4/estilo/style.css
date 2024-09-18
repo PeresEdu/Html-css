@@ -21,7 +21,7 @@
 
 html, body {
     background-color: darkgray;
-    min-height: 100vh;
+    min-height: 96vh;
     font-family: var(--fonte01);
 
 }
