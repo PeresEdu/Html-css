@@ -21,7 +21,8 @@
 
 html, body {
     background-color: darkgray;
-    min-height: 96vh;
+    max-height: 96vh;
+    
     font-family: var(--fonte01);
 
 }
